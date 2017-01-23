@@ -1,3 +1,9 @@
+fork notes:
+testing with leaflet 1.0.2
+-> demo copied from original github link and upgraded to 1.0.2
+seems to work ok.
+
+
 leaflet-corridor
 ================
 Renders a polyline with width fixed in meters, not in pixels. This means 
