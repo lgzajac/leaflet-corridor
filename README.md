@@ -1,7 +1,7 @@
 fork notes:
 testing with leaflet 1.0.2
 -> demo copied from original github link and upgraded to 1.0.2
-seems to work ok.
+seems to work ok. (see local demo src)
 
 
 leaflet-corridor
